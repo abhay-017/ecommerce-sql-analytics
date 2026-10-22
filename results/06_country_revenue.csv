@@ -1,0 +1,11 @@
+rank,country,revenue,orders,customers,pct_of_revenue,revenue_per_order
+1,United Kingdom,16802776.0,36184,5334,85.5,464.0
+2,EIRE,623414.0,581,3,3.2,1073.0
+3,Netherlands,549773.0,216,22,2.8,2545.0
+4,Germany,383289.0,753,107,2.0,509.0
+5,France,311090.0,598,93,1.6,520.0
+6,Australia,167800.0,89,15,0.9,1885.0
+7,Spain,97767.0,144,38,0.5,679.0
+8,Switzerland,94025.0,85,22,0.5,1106.0
+9,Sweden,86319.0,99,19,0.4,872.0
+10,Denmark,67423.0,42,12,0.3,1605.0

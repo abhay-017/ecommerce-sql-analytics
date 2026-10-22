@@ -1,0 +1,5 @@
+order_bucket,customers,pct_of_customers,revenue,pct_of_revenue
+1 order,1618,27.6,556000.0,3.3
+2-3 orders,1604,27.4,1628322.0,9.5
+4-10 orders,1766,30.2,3865822.0,22.6
+11+ orders,864,14.8,11018439.0,64.6

@@ -1,0 +1,11 @@
+customer_id,home_country,total_orders,total_revenue,pct_of_customer_revenue,cumulative_pct
+18102,United Kingdom,145,580987.04,3.4,3.4
+14646,Netherlands,145,526751.52,3.09,6.49
+14156,EIRE,144,303069.88,1.78,8.27
+14911,EIRE,373,272252.79,1.6,9.86
+17450,United Kingdom,51,244784.25,1.43,11.29
+13694,United Kingdom,143,195640.69,1.15,12.44
+17511,United Kingdom,60,172132.87,1.01,13.45
+16446,United Kingdom,2,168472.5,0.99,14.44
+16684,United Kingdom,55,147142.77,0.86,15.3
+12415,Australia,24,144033.37,0.84,16.14

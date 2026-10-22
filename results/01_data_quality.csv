@@ -1,0 +1,2 @@
+total_rows,cancellation_rows,missing_customer_id,pct_missing_customer,non_positive_qty_rows,non_positive_price_rows,duplicate_rows
+1067371,19494,243007,22.8,3457,6207,34335

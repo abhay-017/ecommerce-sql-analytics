@@ -1,0 +1,17 @@
+stock_code,example_description,row_count,net_value
+POST,POSTAGE,2122,112341.0
+DOT,DOTCOM POSTAGE,1446,322647.0
+M,Manual,1421,-82796.0
+C2,CARRIAGE,282,13386.0
+D,Discount,177,-13485.0
+S,SAMPLES,104,-6066.0
+BANK CHARGES,Bank Charges,102,-35563.0
+ADJUST,Adjustment by john on 26/01/2010 17,67,6835.0
+AMAZONFEE,AMAZON FEE,43,-260764.0
+PADS,PADS TO MATCH ALL CUSHIONS,19,-37.0
+CRUK,CRUK Commission,16,-7933.0
+TEST001,This is a test product.,15,203.0
+B,Adjust bad debt,6,-147614.0
+m,Manual,5,15.0
+ADJUST2,Adjustment by Peter on Jun 25 2010 ,3,731.0
+TEST002,This is a test product.,2,1.0

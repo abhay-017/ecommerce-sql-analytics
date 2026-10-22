@@ -1,0 +1,7 @@
+table_name,row_count
+raw_transactions,1067371
+transactions (clean),1003417
+orders,39516
+customers,5852
+products,4902
+returns,17915
